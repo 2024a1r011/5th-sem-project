@@ -1,0 +1,19 @@
+{header} PRIYA NANDA
+{header} priya.nanda@example.com | Patiala
+{H:summary} CAREER OBJECTIVE
+{summary} To obtain a data science role where I can apply machine learning skills.
+{H:education} EDUCATION
+{education} M.Sc. Statistics, Sample University (2023 - 2025)
+{education} B.Sc. Mathematics, Sample College (2020 - 2023)
+{H:experience} PROFESSIONAL EXPERIENCE
+{experience} Research Assistant, Sample University (2024 - 2025)
+{experience} - Analysed survey data of 5,000 respondents using R and Python.
+{experience} - Co-authored a paper on predictive modelling of student outcomes.
+{H:projects} ACADEMIC PROJECTS
+{projects} Credit Risk Scoring
+{projects} - Developed a gradient boosting model with an AUC of 0.87.
+{H:skills} SKILLS & TOOLS
+{skills} Python, R, SQL, scikit-learn, XGBoost, Tableau
+{H:achievements} AWARDS & HONOURS
+{achievements} Gold Medal, M.Sc. Statistics (2025)
+{achievements} Winner, University Data Challenge 2024

@@ -1,0 +1,2 @@
+# Needed only for the second half (embedding matcher). Large download; install later.
+sentence-transformers>=2.7

@@ -1,0 +1,11 @@
+Embedded Systems Engineer
+Key Responsibilities
+- Write firmware in C and C++ for ARM-based microcontrollers.
+- Integrate sensors and communicate over MQTT.
+- Debug hardware issues with oscilloscopes and logic analysers.
+Required Skills
+C, C++, Embedded Systems, Arduino, ESP32
+- Bachelor's degree in Electronics or Computer Engineering.
+- 1-2 years of experience in embedded development.
+Preferred Skills
+Python, Raspberry Pi, IoT platforms

@@ -1,0 +1,9 @@
+{
+  "_note": "Hand-labeled technical skills per JD. must = appears in a required requirement/responsibility; nice = only in nice-to-have lines. Labeled from the text, independent of extractor output.",
+  "jd1_backend.txt": {"must": ["REST API","Unit Testing","Integration Testing","Docker","Python","Flask","Django","FastAPI","SQL","PostgreSQL","MySQL","Git","CI/CD"], "nice": ["Caching","Redis","AWS","GCP","Azure"]},
+  "jd2_data_analyst.txt": {"must": ["Python","SQL","Predictive Modeling","Forecasting","pandas","NumPy","Power BI","Tableau","Statistics","Machine Learning"], "nice": ["A/B Testing"]},
+  "jd3_ml_intern.txt": {"must": ["scikit-learn","PyTorch","pandas","NumPy","Machine Learning","Statistics","Python","Deep Learning","TensorFlow"], "nice": ["NLP","Computer Vision","Docker"]},
+  "jd4_fullstack.txt": {"must": ["React","TypeScript","Node.js","Express","MongoDB","Code Review","JavaScript","HTML","CSS","Git","Agile"], "nice": ["AWS","Azure","GraphQL"]},
+  "jd5_embedded.txt": {"must": ["C","C++","MQTT","Debugging","Embedded Systems","Arduino","ESP32"], "nice": ["Python","Raspberry Pi","IoT"]},
+  "jd6_noheadings.txt": {"must": ["HTML","CSS","JavaScript","Git","WordPress","PHP"], "nice": ["React"]}
+}

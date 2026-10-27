@@ -1,0 +1,19 @@
+Data Analyst
+
+About the role
+Join our analytics team to turn business data into insights that drive decisions.
+
+Responsibilities
+- Clean, transform and analyse large datasets using Python and SQL.
+- Build dashboards and reports for business stakeholders.
+- Develop simple predictive models to support forecasting.
+- Present findings clearly to non-technical audiences.
+
+Requirements
+- Bachelor's degree in a quantitative field.
+- Proficiency in Python (pandas, NumPy) and SQL.
+- Experience with a BI tool such as Power BI or Tableau.
+- Understanding of statistics and basic machine learning.
+
+Nice to have
+- Experience with A/B testing.

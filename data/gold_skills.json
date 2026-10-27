@@ -1,0 +1,12 @@
+{
+  "_note": "Hand-labeled: every technical skill/tool/technique a reader would pick out of the resume text. Labeled from the resume text before looking at extractor output.",
+  "labeled/r1_karan.txt": ["JavaScript","Python","SQL","Docker","AWS","Git","MongoDB","Node.js","React","Express","JWT","GitHub Actions","Microservices","CI/CD"],
+  "labeled/r2_priya.txt": ["R","Python","SQL","scikit-learn","XGBoost","Tableau","Machine Learning","Gradient Boosting","Predictive Modeling","Statistics"],
+  "labeled/r3_aman_noheadings.txt": ["HTML","CSS","JavaScript","Git"],
+  "labeled/r4_neha.txt": ["Python","PyTorch","TensorFlow","OpenCV","Streamlit","spaCy","CNN","Data Augmentation"],
+  "labeled/r5_vikram_wrapped.txt": ["C","C++","Python","Arduino","ESP32","MQTT","IoT","Embedded Systems"],
+  "labeled/r6_meera_tricky.txt": ["Python","Django","PostgreSQL","Linux","Git","REST API","Agile","Code Review","Debugging"],
+  "source_text/resume_ananya.txt": ["Python","Flask","REST API","Redis","Caching","React","pytest","Unit Testing","SQLite","SQLAlchemy","scikit-learn","Logistic Regression","TF-IDF","Bag of Words","Sentiment Analysis","Java","SQL","JavaScript","Git","Docker","PostgreSQL","Machine Learning","AWS"],
+  "source_text/resume_rohan.txt": ["Python","SQL","pandas","NumPy","scikit-learn","Power BI","Excel","Django","Git","PostgreSQL","Random Forest","Feature Engineering","Cross-Validation","Data Cleaning"],
+  "source_text/resume_simran.txt": ["HTML","CSS","Java","MySQL","C++"]
+}

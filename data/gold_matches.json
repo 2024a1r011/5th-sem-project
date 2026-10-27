@@ -1,0 +1,93 @@
+{
+  "_note": "Hand-labeled relevance. For each requirement (identified by a unique text prefix), 'relevant' lists substrings of the resume sentences that provide evidence for it. An empty list means the resume has NO evidence for that requirement. Labeled from the texts, before looking at any matcher output.",
+  "pairs": [
+    {"resume": "source_text/resume_ananya.txt", "jd": "jd1_backend.txt", "items": [
+      {"req": "Develop scalable backend services", "relevant": ["Built REST APIs in Flask", "RESTful endpoints"]},
+      {"req": "Design and optimise relational", "relevant": ["Redis caching and query indexing", "SQLite with SQLAlchemy"]},
+      {"req": "Write unit and integration tests", "relevant": ["Wrote unit tests with pytest"]},
+      {"req": "Collaborate with frontend engineers", "relevant": []},
+      {"req": "Deploy and monitor services", "relevant": ["deployed the app on Render", "Tools: Git, Docker"]},
+      {"req": "Bachelor's degree in Computer Science", "relevant": ["B.Tech in Computer Science"]},
+      {"req": "Strong proficiency in Python", "relevant": ["Languages: Python", "Frameworks: Flask", "Built REST APIs in Flask", "Developed a Flask application", "using Python and Flask"]},
+      {"req": "Experience with SQL databases", "relevant": ["Tools: Git, Docker", "Languages: Python, Java, SQL", "SQLite with SQLAlchemy"]},
+      {"req": "Familiarity with Git, Docker", "relevant": ["Tools: Git, Docker"]},
+      {"req": "Good communication skills", "relevant": []},
+      {"req": "Experience with caching", "relevant": ["Redis caching", "Tools: Git, Docker"]},
+      {"req": "Exposure to AWS", "relevant": ["AWS Cloud Practitioner"]}
+    ]},
+    {"resume": "source_text/resume_rohan.txt", "jd": "jd2_data_analyst.txt", "items": [
+      {"req": "Clean, transform and analyse", "relevant": ["Helped the team with data cleaning", "Automated a monthly reporting workflow", "Python, SQL, pandas, NumPy"]},
+      {"req": "Build dashboards and reports", "relevant": ["Created dashboards in Power BI", "Responsible for preparing weekly sales reports"]},
+      {"req": "Develop simple predictive models", "relevant": ["Built a random forest model"]},
+      {"req": "Present findings clearly", "relevant": []},
+      {"req": "Bachelor's degree in a quantitative", "relevant": ["B.E. in Information Technology"]},
+      {"req": "Proficiency in Python (pandas", "relevant": ["Python and pandas", "Python, SQL, pandas, NumPy"]},
+      {"req": "Experience with a BI tool", "relevant": ["Created dashboards in Power BI", "Python, SQL, pandas, NumPy"]},
+      {"req": "Understanding of statistics", "relevant": ["Built a random forest model", "Performed feature engineering and cross-validation"]},
+      {"req": "Experience with A/B testing", "relevant": []}
+    ]},
+    {"resume": "source_text/resume_ananya.txt", "jd": "jd2_data_analyst.txt", "items": [
+      {"req": "Clean, transform and analyse", "relevant": ["Languages: Python, Java, SQL"]},
+      {"req": "Build dashboards and reports", "relevant": []},
+      {"req": "Develop simple predictive models", "relevant": ["Trained a logistic regression classifier"]},
+      {"req": "Present findings clearly", "relevant": []},
+      {"req": "Bachelor's degree in a quantitative", "relevant": ["B.Tech in Computer Science"]},
+      {"req": "Proficiency in Python (pandas", "relevant": ["Languages: Python, Java, SQL"]},
+      {"req": "Experience with a BI tool", "relevant": []},
+      {"req": "Understanding of statistics", "relevant": ["Introduction to Machine Learning", "Trained a logistic regression classifier"]},
+      {"req": "Experience with A/B testing", "relevant": []}
+    ]},
+    {"resume": "source_text/resume_rohan.txt", "jd": "jd1_backend.txt", "items": [
+      {"req": "Develop scalable backend services", "relevant": ["expense tracker using Django"]},
+      {"req": "Design and optimise relational", "relevant": ["Django and PostgreSQL"]},
+      {"req": "Write unit and integration tests", "relevant": []},
+      {"req": "Collaborate with frontend engineers", "relevant": []},
+      {"req": "Deploy and monitor services", "relevant": []},
+      {"req": "Bachelor's degree in Computer Science", "relevant": ["B.E. in Information Technology"]},
+      {"req": "Strong proficiency in Python", "relevant": ["Django and PostgreSQL", "Python, SQL, pandas, NumPy"]},
+      {"req": "Experience with SQL databases", "relevant": ["Django and PostgreSQL", "Python, SQL, pandas, NumPy"]},
+      {"req": "Familiarity with Git, Docker", "relevant": ["Python, SQL, pandas, NumPy"]},
+      {"req": "Good communication skills", "relevant": []},
+      {"req": "Experience with caching", "relevant": []},
+      {"req": "Exposure to AWS", "relevant": []}
+    ]},
+    {"resume": "labeled/r4_neha.txt", "jd": "jd3_ml_intern.txt", "items": [
+      {"req": "Train and evaluate classification", "relevant": ["Trained a CNN for defect detection", "Implemented an intent classifier", "Wrote data augmentation scripts in PyTorch"]},
+      {"req": "Clean and prepare datasets", "relevant": ["Wrote data augmentation scripts in PyTorch"]},
+      {"req": "Present results to the team", "relevant": []},
+      {"req": "Currently pursuing a B.Tech", "relevant": ["B.E. Computer Engineering"]},
+      {"req": "Solid understanding of machine learning", "relevant": ["Machine Learning Intern, VisionTech", "Trained a CNN for defect detection"]},
+      {"req": "Hands-on experience with Python", "relevant": ["Python, PyTorch, TensorFlow", "Wrote data augmentation scripts in PyTorch", "Trained a CNN for defect detection"]},
+      {"req": "Ability to communicate technical", "relevant": []},
+      {"req": "Experience with NLP", "relevant": ["Trained a CNN for defect detection", "Implemented an intent classifier", "Python, PyTorch, TensorFlow, OpenCV"]},
+      {"req": "Familiarity with Docker", "relevant": []}
+    ]},
+    {"resume": "labeled/r1_karan.txt", "jd": "jd4_fullstack.txt", "items": [
+      {"req": "Build responsive user interfaces", "relevant": ["Built a web app to compare education loan offers"]},
+      {"req": "Develop Node.js and Express", "relevant": ["Developed microservices in Node.js", "Built a web app to compare education loan offers", "Stored data in MongoDB"]},
+      {"req": "Review code and mentor", "relevant": []},
+      {"req": "3+ years of professional", "relevant": ["Motivated developer with experience in web development"]},
+      {"req": "B.Tech/B.E./MCA", "relevant": ["B.Tech, Computer Science"]},
+      {"req": "Must have strong knowledge of JavaScript", "relevant": ["Languages: JavaScript, Python, SQL"]},
+      {"req": "Experience with Git and Agile", "relevant": ["Tools: Docker, AWS, Git"]},
+      {"req": "Experience with AWS or Azure", "relevant": ["deployed them on AWS EC2", "AWS Certified Cloud Practitioner", "Tools: Docker, AWS, Git"]},
+      {"req": "Knowledge of GraphQL", "relevant": []}
+    ]},
+    {"resume": "labeled/r5_vikram_wrapped.txt", "jd": "jd5_embedded.txt", "items": [
+      {"req": "Write firmware in C and C++", "relevant": ["Programmed ESP32 microcontrollers", "C, C++, Python, Arduino"]},
+      {"req": "Integrate sensors and communicate over MQTT", "relevant": ["stream sensor data over MQTT", "soil-moisture based controller"]},
+      {"req": "Debug hardware issues", "relevant": []},
+      {"req": "C, C++, Embedded Systems", "relevant": ["C, C++, Python, Arduino", "Embedded Systems Design", "interested in embedded systems and IoT"]},
+      {"req": "Bachelor's degree in Electronics", "relevant": ["B.Tech, Electronics and Communication"]},
+      {"req": "1-2 years of experience", "relevant": ["IoT Intern, SmartHome", "Programmed ESP32 microcontrollers"]},
+      {"req": "Python, Raspberry Pi", "relevant": ["C, C++, Python, Arduino", "IoT Intern, SmartHome", "interested in embedded systems and IoT"]}
+    ]},
+    {"resume": "labeled/r3_aman_noheadings.txt", "jd": "jd6_noheadings.txt", "items": [
+      {"req": "You will build and maintain client websites", "relevant": ["Built landing pages using HTML, CSS and JavaScript", "Web Developer Intern, PixelWorks"]},
+      {"req": "You will also fix bugs", "relevant": []},
+      {"req": "You should know Git", "relevant": ["HTML, CSS, JavaScript, Git"]},
+      {"req": "A diploma or degree in IT", "relevant": ["BCA, Sample College"]},
+      {"req": "Knowledge of React", "relevant": []}
+    ]}
+  ]
+}

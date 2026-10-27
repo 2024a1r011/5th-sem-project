@@ -1,0 +1,16 @@
+Machine Learning Intern
+Join our applied AI team for a 6-month internship working on real products.
+What you'll do
+- Train and evaluate classification models using scikit-learn and PyTorch.
+- Clean and prepare datasets with pandas and NumPy.
+- Present results to the team in weekly reviews.
+What we're looking for
+- Currently pursuing a B.Tech, B.E. or M.Tech in Computer Science or a related discipline.
+- Solid understanding of machine learning fundamentals and statistics.
+- Hands-on experience with Python and at least one deep learning framework (TensorFlow or PyTorch).
+- Ability to communicate technical ideas clearly.
+Bonus points
+- Experience with NLP or computer vision projects.
+- Familiarity with Docker.
+What we offer
+- Stipend, flexible hours and mentorship from senior engineers.

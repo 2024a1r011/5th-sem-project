@@ -1,0 +1,7 @@
+Junior Web Developer
+We are a small agency in Chandigarh looking for a junior web developer.
+You will build and maintain client websites using HTML, CSS and JavaScript.
+You will also fix bugs reported by clients and update content.
+You should know Git and have some experience with WordPress or PHP.
+A diploma or degree in IT is preferred.
+Knowledge of React is a bonus.

@@ -1,0 +1,26 @@
+Rohan Mehta
+rohan.mehta@example.com | +91 98765 00002 | Chandigarh | linkedin.com/in/rohanmehta
+
+EDUCATION
+B.E. in Information Technology, Sample University (2021 - 2025)
+CGPA: 7.6/10
+
+EXPERIENCE
+Data Analyst Intern, Insight Analytics (Jan 2025 - Jun 2025)
+- Responsible for preparing weekly sales reports.
+- Helped the team with data cleaning tasks.
+- Automated a monthly reporting workflow with Python and pandas, saving about 6 hours per week.
+- Created dashboards in Power BI that were used by 4 regional managers.
+
+PROJECTS
+Customer Churn Prediction
+- Built a random forest model on telecom data to predict churn, achieving an F1-score of 0.81.
+- Performed feature engineering and cross-validation using scikit-learn.
+Expense Tracker App
+- Made a mobile-friendly expense tracker using Django and PostgreSQL.
+
+SKILLS
+Python, SQL, pandas, NumPy, scikit-learn, Power BI, Excel, Django, Git
+
+ACHIEVEMENTS
+Finalist, Inter-college Data Hackathon 2024

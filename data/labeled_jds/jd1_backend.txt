@@ -1,0 +1,18 @@
+{title} Backend Engineer (Junior)
+{H:about} About the role
+{about} We are looking for a Backend Engineer to join our platform team and help build the services behind our product.
+{H:responsibility} Responsibilities
+{responsibility} - Develop scalable backend services and work with REST APIs.
+{responsibility} - Design and optimise relational database schemas and queries.
+{responsibility} - Write unit and integration tests for the code you ship.
+{responsibility} - Collaborate with frontend engineers and product managers.
+{responsibility} - Deploy and monitor services using Docker and cloud platforms.
+{H:requirement} Requirements
+{requirement} - Bachelor's degree in Computer Science or a related field.
+{requirement} - Strong proficiency in Python (Flask, Django or FastAPI).
+{requirement} - Experience with SQL databases such as PostgreSQL or MySQL.
+{requirement} - Familiarity with Git, Docker and CI/CD pipelines.
+{requirement} - Good communication skills and ability to work in a team.
+{H:nice} Nice to have
+{nice} - Experience with caching (Redis) or message queues.
+{nice} - Exposure to AWS, GCP or Azure.

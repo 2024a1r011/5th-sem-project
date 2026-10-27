@@ -1,0 +1,23 @@
+{header} Karan Verma
+{header} karan.verma@example.com | +91 90000 11111 | Jalandhar
+{H:summary} Profile
+{summary} Motivated developer with experience in web development and cloud deployments.
+{summary} Keen to work on scalable systems.
+{H:education} Academic Background
+{education} B.Tech, Computer Science, Sample Institute (2021 - 2025)
+{education} CGPA: 8.1/10
+{H:experience} Work History
+{experience} Software Engineer Intern, CloudNine Labs (Jan 2025 - Jun 2025)
+{experience} - Developed microservices in Node.js handling 1,000 requests per minute.
+{experience} - Containerised services with Docker and deployed them on AWS EC2.
+{experience} - Set up a CI pipeline using GitHub Actions that cut build time by 40%.
+{H:projects} Personal Projects
+{projects} Education Loan Tracker
+{projects} - Built a web app to compare education loan offers using React and Express.
+{projects} - Stored data in MongoDB and added JWT authentication.
+{H:skills} Technical Skills:
+{skills} Languages: JavaScript, Python, SQL
+{skills} Tools: Docker, AWS, Git, MongoDB
+{H:certifications} Courses & Certifications
+{certifications} AWS Certified Cloud Practitioner
+{certifications} Coursera - Node.js Basics

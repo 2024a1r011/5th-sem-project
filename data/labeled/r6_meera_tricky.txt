@@ -1,0 +1,12 @@
+{header} Meera Joshi
+{header} meera.joshi@example.com
+{H:summary} Summary
+{summary} Experience with Python and Django, and a strong interest in data engineering.
+{H:education} EDUCATION
+{education} MCA, Sample University (2023 - 2025)
+{H:experience} EXPERIENCE
+{experience} Junior Developer, CodeCraft (2022 - 2023)
+{experience} - Maintained Django REST services used by 3 client applications.
+{experience} - Skills gained: debugging, code review and Agile practices.
+{H:skills} SKILLS
+{skills} Python, Django, PostgreSQL, Linux, Git

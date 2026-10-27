@@ -1,0 +1,34 @@
+Ananya Sharma
+ananya.sharma@example.com | +91 98765 00001 | Ludhiana, Punjab | github.com/ananya-sharma
+
+SUMMARY
+Final-year Computer Science student with hands-on experience building backend services and web applications using Python and Flask.
+
+EDUCATION
+B.Tech in Computer Science and Engineering, Example Institute of Technology (2022 - 2026)
+CGPA: 8.4/10
+Senior Secondary (CBSE), Example Public School, 91.2%
+
+EXPERIENCE
+Backend Developer Intern, TechNova Solutions (Jun 2025 - Aug 2025)
+- Built REST APIs in Flask for an internal inventory tool, serving 200+ daily requests.
+- Reduced average API response time by 35% by adding Redis caching and query indexing.
+- Wrote unit tests with pytest, raising code coverage from 40% to 78%.
+- Worked on a website using React.
+
+PROJECTS
+Student Management System
+- Developed a Flask application with RESTful endpoints for managing student records, attendance and grades.
+- Used SQLite with SQLAlchemy for data storage and deployed the app on Render.
+Sentiment Analysis of Product Reviews
+- Trained a logistic regression classifier on 50,000 reviews using scikit-learn, reaching 88% accuracy.
+- Built TF-IDF features and compared them against a baseline bag-of-words model.
+
+SKILLS
+Languages: Python, Java, SQL, JavaScript
+Frameworks: Flask, React, scikit-learn
+Tools: Git, Docker, Redis, PostgreSQL
+
+CERTIFICATIONS
+NPTEL - Introduction to Machine Learning (Elite)
+AWS Cloud Practitioner Essentials

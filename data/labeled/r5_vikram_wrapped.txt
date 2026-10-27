@@ -1,0 +1,18 @@
+{header} Vikram Sethi
+{header} vikram.sethi@example.com | Mohali | linkedin.com/in/vikramsethi
+{H:summary} About Me
+{summary} Final-year student interested in embedded systems and IoT.
+{H:education} Education
+{education} B.Tech, Electronics and Communication, Sample University (2022 - 2026)
+{H:experience} Work Experience
+{experience} IoT Intern, SmartHome Pvt Ltd (Jun 2025 - Aug 2025)
+{experience} - Led a team of four students to build an inventory dashboard that reduced manual
+{experience} stock counting time for the college store.
+{experience} - Programmed ESP32 microcontrollers to stream sensor data over MQTT.
+{H:projects} Projects
+{projects} Smart Irrigation System
+{projects} - Designed a soil-moisture based controller using Arduino and relay modules.
+{H:skills} Skills
+{skills} C, C++, Python, Arduino, ESP32, MQTT
+{H:certifications} Certifications
+{certifications} NPTEL - Embedded Systems Design

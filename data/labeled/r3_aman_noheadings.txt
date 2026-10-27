@@ -1,0 +1,6 @@
+{header} Aman Gill
+{header} aman.gill@example.com
+{education} BCA, Sample College (2022 - 2025)
+{experience} Web Developer Intern, PixelWorks (2024)
+{experience} - Built landing pages using HTML, CSS and JavaScript.
+{skills} HTML, CSS, JavaScript, Git

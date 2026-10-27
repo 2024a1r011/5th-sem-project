@@ -1,0 +1,17 @@
+Simran Kaur
+simran.kaur@example.com | Amritsar, Punjab
+
+OBJECTIVE
+Looking for a challenging position where I can use my skills.
+
+EDUCATION
+BCA, Sample College (2021 - 2024)
+
+PROJECTS
+Portfolio Website
+- Made a website using HTML and CSS.
+Library Management
+- Worked on a library management system in Java.
+
+SKILLS
+HTML, CSS, Java, MySQL, C++

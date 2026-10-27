@@ -1,0 +1,56 @@
+{
+  "_format": "Each entry: Canonical|alias|alias. Prefix '!' = case-sensitive, '?' = only counts in a Skills section or after 'using/in/with/via/on' (for ambiguous names like C, R, Go).",
+  "language": [
+    "Python|python3", "Java", "JavaScript|ecmascript", "TypeScript", "C++|cpp", "C#|csharp",
+    "!?C", "!?R", "!?Go|golang", "Rust", "!Swift", "Kotlin", "PHP", "Ruby", "Scala", "MATLAB",
+    "Perl", "Dart", "Bash|shell scripting", "SQL", "HTML|html5", "CSS|css3"
+  ],
+  "web": [
+    "Flask", "Django", "FastAPI|fast api", "!Express|express.js|expressjs", "Node.js|nodejs|node js",
+    "React|react.js|reactjs", "React Native", "Angular|angularjs", "Vue.js|vuejs", "Next.js|nextjs",
+    "Spring Boot|springboot", ".NET|dotnet|asp.net", "Laravel", "Bootstrap", "Tailwind CSS|tailwind",
+    "jQuery", "Redux", "GraphQL", "Streamlit", "Django REST Framework|drf"
+  ],
+  "database": [
+    "MySQL", "PostgreSQL|postgres", "SQLite", "MongoDB|mongo", "Redis", "SQL Server|mssql|ms sql",
+    "Cassandra", "Elasticsearch|elastic search", "Firebase", "DynamoDB", "SQLAlchemy", "Hibernate",
+    "NoSQL", "Neo4j", "Snowflake", "BigQuery"
+  ],
+  "ml_data": [
+    "Machine Learning", "Deep Learning", "NLP|natural language processing", "Computer Vision",
+    "Neural Networks|neural network", "CNN|convolutional neural network|convolutional neural networks",
+    "RNN|recurrent neural network", "LSTM", "BERT", "LLM|large language model|large language models",
+    "!RAG|retrieval-augmented generation", "scikit-learn|sklearn|scikit learn", "TensorFlow", "Keras",
+    "PyTorch", "XGBoost", "LightGBM", "pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "Plotly",
+    "OpenCV", "spaCy", "NLTK", "Hugging Face|huggingface", "Random Forest", "Gradient Boosting",
+    "Logistic Regression", "Linear Regression", "Decision Trees|decision tree", "SVM|support vector machine|support vector machines",
+    "K-Means|kmeans", "Clustering", "TF-IDF|tfidf|tf idf", "Bag of Words|bag-of-words", "Word2Vec",
+    "Feature Engineering", "Cross-Validation|cross validation", "Data Augmentation",
+    "Predictive Modeling|predictive modelling|predictive modeling", "Statistics|statistical analysis",
+    "Sentiment Analysis", "Data Cleaning|data cleansing", "Data Analysis|data analytics",
+    "Data Visualization|data visualisation", "A/B Testing|ab testing", "ETL", "Apache Spark|pyspark|!?Spark",
+    "Hadoop", "Kafka", "Airflow", "Time Series", "Forecasting"
+  ],
+  "bi_tools": [
+    "Power BI|powerbi", "Tableau", "!Excel|microsoft excel|ms excel", "Jupyter|jupyter notebook", "Google Colab|colab"
+  ],
+  "devops_cloud": [
+    "Docker", "Kubernetes|k8s", "AWS|amazon web services", "Azure|microsoft azure",
+    "GCP|google cloud|google cloud platform", "Git", "GitHub", "GitLab", "GitHub Actions", "Jenkins",
+    "CI/CD|ci cd|continuous integration|ci pipeline|continuous deployment", "Terraform", "Ansible",
+    "Linux", "Nginx", "Heroku", "Postman", "Jira"
+  ],
+  "engineering_practice": [
+    "REST API|rest apis|restful|restful api|rest services|rest endpoints|!REST", "Microservices",
+    "Unit Testing|unit tests|unit test", "Integration Testing|integration tests", "pytest", "JUnit",
+    "Selenium", "TDD|test-driven development", "Agile", "Scrum",
+    "OOP|object-oriented programming|object oriented programming", "Data Structures|dsa|data structures and algorithms",
+    "Algorithms", "System Design", "Design Patterns", "Code Review|code reviews", "Debugging",
+    "Caching|cache", "JWT|json web token", "OAuth", "WebSockets|websocket"
+  ],
+  "embedded_mobile": [
+    "MQTT", "Android", "iOS", "Flutter", "Arduino", "Raspberry Pi", "ESP32",
+    "Embedded Systems|embedded system", "IoT|internet of things"
+  ],
+  "design": ["Figma"]
+}

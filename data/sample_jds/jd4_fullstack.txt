@@ -1,0 +1,16 @@
+Full Stack Developer
+Acme Labs is a fast-growing startup building tools for small businesses.
+Key Responsibilities
+• Build responsive user interfaces with React and TypeScript.
+• Develop Node.js and Express APIs backed by MongoDB.
+• Review code and mentor junior developers.
+Qualifications
+• 3+ years of professional experience in web development.
+• B.Tech/B.E./MCA in Computer Science or equivalent.
+• Must have strong knowledge of JavaScript, HTML and CSS.
+• Experience with Git and Agile methodologies.
+Preferred Qualifications
+• Experience with AWS or Azure.
+• Knowledge of GraphQL is a plus.
+Benefits
+• Health insurance and remote-friendly work.

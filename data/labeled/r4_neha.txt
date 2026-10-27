@@ -1,0 +1,18 @@
+{header} Neha Bansal
+{header} neha.bansal@example.com | github.com/nehab
+{H:education} Qualifications
+{education} B.E. Computer Engineering, Sample Engineering College, 2025, 8.9 CGPA
+{education} Class XII, Sample School, 93%
+{H:experience} Internships
+{experience} Machine Learning Intern, VisionTech (May 2024 - Jul 2024)
+{experience} - Trained a CNN for defect detection on 8,000 images, improving recall to 92%.
+{experience} - Wrote data augmentation scripts in PyTorch.
+{H:projects} Projects
+{projects} Chatbot for College Queries
+{projects} - Implemented an intent classifier with spaCy and deployed it using Streamlit.
+{H:skills} Technologies
+{skills} Python, PyTorch, TensorFlow, OpenCV, Streamlit
+{H:achievements} Achievements
+{achievements} Runner-up, State Level Hackathon 2024
+{H:other} Interests
+{other} Chess, trekking
